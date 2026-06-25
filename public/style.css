@@ -1,0 +1,25 @@
+.login-body{
+background:#f4f6f9;
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.login-card{
+background:white;
+padding:40px;
+width:400px;
+border-radius:15px;
+box-shadow:0px 5px 20px rgba(0,0,0,0.1);
+}
+
+.login-card h2{
+text-align:center;
+margin-bottom:10px;
+}
+
+.login-card p{
+text-align:center;
+margin-bottom:20px;
+}
